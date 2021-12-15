@@ -4,9 +4,6 @@
   related:
     items:
     - text: Beta sprint 2 prototype
-      description: |
-        Username: `rpr-prototype`
-        Password: `PVB9vuz4fma6hax_mhr`
       href: https://rpr-prototype.herokuapp.com/#beta-sprint-2
 ---
 
