@@ -18,8 +18,5 @@ eleventyComputed:
 related:
   items:
   - text: RPR beta prototype
-    description: |
-      Username: `rpr-prototype`
-      Password: `PVB9vuz4fma6hax_mhr`
     href: https://rpr-prototype.herokuapp.com/
 ---

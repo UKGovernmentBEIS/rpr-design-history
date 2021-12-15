@@ -4,9 +4,6 @@
   related:
     items:
     - text: Beta sprint 2 prototype
-      description: |
-        Username: `rpr-prototype`
-        Password: `PVB9vuz4fma6hax_mhr`
       href: https://rpr-prototype.herokuapp.com/#beta-sprint-2
     - text: DevOps 1772 Find information and data
       href: https://dev.azure.com/AmakaMgbeji/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE/_backlogs/backlog/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE%20Team/Stories/?showParents=true&workitem=1772
