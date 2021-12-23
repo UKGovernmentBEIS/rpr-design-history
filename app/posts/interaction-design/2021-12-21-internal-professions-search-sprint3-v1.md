@@ -49,7 +49,7 @@ we agreed to expand the page width of the listing page to 1200px (instead of the
 
 We believe that RA users and BEIS/UKCPQ users may have different user needs, so there will be some little difference for the professions listing page they will see. We had a discussion and decided to have the following content:  
 
-[![View image in full size](04.png)](04.png)*Different table headings and filters. Left - Internal; Right - Public facing*
+[![View image in full size](04.png)](04.png)*Different table headings and filters. Left - RA users; Right - UKCPQ users*
 
 #### Professions for RA users
 * They will only see professions within their organisation
