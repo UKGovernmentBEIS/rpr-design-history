@@ -1,0 +1,39 @@
+---
+  title: Regulator users and central admin users to co-edit professions and regulators information
+  date: 2022-01-09
+  related:
+    items:
+    - text: Beta sprint 4 prototype
+      href: https://rpr-prototype.herokuapp.com/#beta-sprint-4
+   
+---
+
+## Overview 
+
+The previous assumption was that either central admin users or regulator users will create / amend information of professions and regulators. However, we have provided our design provocation in the design collaboration and the team tend to believe that the two parties will need to work together. 
+
+--- 
+
+### Original idea
+
+When onboarding a new regulator, we thought regulators will set it up on their own (with the central admin setting up users for regulators). And it is the same when regulators want to amend the information. 
+
+[![View image in full size](01.png)](01.png)*Regulator users to create / amend information on their own*
+
+--- 
+
+### Opinions from workshop
+
+Our designers provided design provocation in the workshop and checked with the team. We found that it is more likely that central admin will be responsible in creating a placeholder regulator, and then let the regulator users to fill in the blank. In this case, we will need to find out a solution that can make the publishing process smoothly (the original approval process is not the right solution).
+
+[![View image in full size](02.png)](02.png)*Central admin and regulator users to work together closely*
+
+
+
+--- 
+
+### Links
+
+Co-design information is on this [Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764516111957782&cot=14).
+
+[Beta sprint 4 prototype](https://rpr-prototype.herokuapp.com/#beta-sprint-4)
