@@ -28,4 +28,3 @@ A regulator user now:
 
 [![View image in full size](02.png)](02.png)*Profession details page (internal)*
 
---- 
