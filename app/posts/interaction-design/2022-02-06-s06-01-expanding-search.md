@@ -40,6 +40,8 @@ We decided to implement the following quick wins:
 * Improve the wordings when there's no search results for professions
 
 
+[![View image in full size](04.png)](04.png)*Zero search results message*
+
 --- 
 
 ### Links
