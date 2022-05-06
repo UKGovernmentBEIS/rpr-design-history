@@ -10,29 +10,24 @@
 
 ## Overview 
 
-We have a simpler starting page for the service. 
+We are adding Regulation Types to professions and its listing page. There are two drivers for adding this filter:
+
+* Policy analysts may need to filter certain types of regulating organisations in response to new legislation and
+* Ministers have committed to keeping a public list of legally regulated (licensed) professions 
+ 
 
 --- 
 
-### New start page
+### Regulation type
 
-The page has a brief explanation of regulated professions. And direct links to the different parts of the service.
-
-
-[![View image in full size](01.png)](01.png)*New start page*
-
---- 
-
-### User research findings
-
-The new starting page worked well:
-* The title felt appropriate for the service and what it provides.
-* The onward links were clear.
-* But ‘annual figures’ was less relevant and should be less prominent.
+Professions on the register may be regulated in three ways:
+* **Licensing** - By law, only recognised professionals can carry out the reserved activities
+* **Certification** - There are no restrictions on activity, but only certified professionals can use the title
+* **Accreditation** - Voluntary professional status, with designated titles but no restrictions on activity
 
 
---- 
+[![View image in full size](01.png)](01.png)*Filters on public facing side*
 
-### Links
+[![View image in full size](02.png)](02.png)*Filters on internal side*
 
-[Alternative start page design](https://rpr-prototype.herokuapp.com/beta-sprint-5/start-page-design/design1)
+
