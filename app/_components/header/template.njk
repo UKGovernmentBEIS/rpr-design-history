@@ -2,7 +2,7 @@
 <header class="govuk-header app-header" role="banner" data-module="govuk-header">
   <div class="govuk-header__container govuk-width-container app-header__container">
     <div class="govuk-header__logo app-header__logo">
-      <a href="{{ params.homepageUrl | default('/') }}" class="govuk-header__link govuk-header__link--homepage">
+      <a href="{{ params.homepageUrl | default('/') | url }}" class="govuk-header__link govuk-header__link--homepage">
         <span class="govuk-header__logotype">
           {#- We use an inline SVG for the crown so that we can cascade the
           currentColor into the crown whilst continuing to support older browsers
@@ -35,7 +35,7 @@
             downloading the fallback image when they don't need to.
             In other browsers <image> is synonymous for the <img> tag and will be
             interpreted as such, displaying the fallback image. #}
-            <image src="/assets/images/govuk-logotype-crown.png" xlink:href="" class="govuk-header__logotype-crown-fallback-image" width="36" height="32"></image>
+            <image src="{{ '/assets/images/govuk-logotype-crown.png' | url }}" xlink:href="" class="govuk-header__logotype-crown-fallback-image" width="36" height="32"></image>
           </svg>
           <span class="govuk-header__logotype-text">
             GOV.UK
