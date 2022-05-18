@@ -1,0 +1,181 @@
+[  {
+    "data": {
+      "title": "No \"view all users\" function on the admin dashboard for now",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-11-23T00:00:00.000Z",
+    "dateString": "23 November 2021",
+    "templateContent": " overview when are co designing creating users journey order make simple decided: build view all page put list newly added temporarily home screen internal will revisit once ready design viewing",
+    "url": "/rpr-design-history/interaction-design/s01-01-no-view-all-users/"
+  },  {
+    "data": {
+      "title": "Splitting users creation into three journeys",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-11-25T00:00:00.000Z",
+    "dateString": "25 November 2021",
+    "templateContent": " overview after rpr user roles permissions workshop marianne morrighan ming came together re designed users creation journey decided split into three parts according role journeys are : national admin beis ukcpq both organisation regulatory authorities our devs will iterate single design this one when get chance",
+    "url": "/rpr-design-history/interaction-design/s01-02-splitting-users-creation/"
+  },  {
+    "data": {
+      "title": "Ignoring the RA creation journey",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-12-01T00:00:00.000Z",
+    "dateString": "1 December 2021",
+    "templateContent": " overview ami clarified that creating ra may even happen once year decided de prioritise",
+    "url": "/rpr-design-history/interaction-design/s02-01-ignore-ra-creation/"
+  },  {
+    "data": {
+      "title": "No approval process for the creating professions journey",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-12-01T00:00:00.000Z",
+    "dateString": "1 December 2021",
+    "templateContent": " overview approving professions creation separate story from ukcpq approver decided: build now new will approved automatically remain same until approval process",
+    "url": "/rpr-design-history/interaction-design/s02-02-no-approval-for-creating-professions/"
+  },  {
+    "data": {
+      "title": "Public facing search design decisions (sprint 2)",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-12-06T00:00:00.000Z",
+    "dateString": "6 December 2021",
+    "templateContent": " overview had co design session public facing search professions ras key decisions made are follows user flow tend believe users would like see listing even before they enter anything keyword filters created 1 our prototype however also want test whether only page will less confusing 2 devs build first usability testings result decide change finding index filtering tools have many suggestions about what should provide after taking available space into considerations decided implement three now: profession ra nations industry sector same both iterate based ur findings screen size agreed that service mostly mobile there adopt approach when designing interface devices",
+    "url": "/rpr-design-history/interaction-design/s02-03-decisions-public-facing-sprint2-v1/"
+  },  {
+    "data": {
+      "title": "Rules for nations filter",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-12-13T00:00:00.000Z",
+    "dateString": "13 December 2021",
+    "templateContent": " overview john suggested behaviour nations filter should follows tick wales filters might see professions with: england uk",
+    "url": "/rpr-design-history/interaction-design/s02-04-nations-filter-rules/"
+  },  {
+    "data": {
+      "title": "Internal professions search design decisions (sprint 3)",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2021-12-21T00:00:00.000Z",
+    "dateString": "21 December 2021",
+    "templateContent": " overview had meeting internal facing prototype review professions search amending status changes were discussed key design decisions made are follows header colour ming seen some other services having different border main he suggested use govuk &quot yellow&quot #ffdd00 distinguish interface from public one yellow listing page users agreed that have user needs preferred devices want more horizontal instead re using left right width since believe most desktop laptop expand 1200px default 960px better space wider table headings filters ra beis ukcpq may there will little difference they see discussion decided following content: only within their organisation title profession id nations last modified date changed by keyword all ras regulators industry sector details add options sidebar published start similar check your answers adding new journey rest pages same also unpublish original create extra instance become draft entity created",
+    "url": "/rpr-design-history/interaction-design/s03-01-internal-professions-search-sprint3-v1/"
+  },  {
+    "data": {
+      "title": "Approval process is not preferred",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-01-07T00:00:00.000Z",
+    "dateString": "7 January 2022",
+    "templateContent": " overview built approval process into our prototype according suggested plan from alpha however design collaborations believe will cause more confusion users map have designed editing journeys both professions regulators by including workshop review collaboration found that may helpful ask members central admin create edit information especially when they are onboarding new because one who most familiar with e.g judging address correct these should amend regulator themselves also there could lot issues during back forth: receive notifications rpr amendments what approve how rejection work which member amendment accepted rejected want conclusion complicated need way streamline",
+    "url": "/rpr-design-history/interaction-design/s04-01-approval-process/"
+  },  {
+    "data": {
+      "title": "Regulator users and central admin users to co-edit professions and regulators information",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-01-09T00:00:00.000Z",
+    "dateString": "9 January 2022",
+    "templateContent": " overview previous assumption that either central admin users regulator will create amend information professions regulators however have provided our design provocation collaboration team tend believe two parties need work together original idea when onboarding new thought set their own with setting same want opinions from workshop designers checked found more likely responsible creating placeholder then let fill blank this case find out solution can make publishing process smoothly approval right closely",
+    "url": "/rpr-design-history/interaction-design/s04-02-co-edit-info/"
+  },  {
+    "data": {
+      "title": "Draft and Publish to replace the original approval process",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-01-09T00:00:00.000Z",
+    "dateString": "9 January 2022",
+    "templateContent": " overview part our scoping discussions agreed replace handed approval step with first iteration self publishing by regulators edits locking down creation deletion professions central organisation letting see audit trail draft published changes publish have new design managing including: creating regulator editing details existing all those things are necessary expect them used quite rarely talking about permissions later worth noting that only people will able one approach similarly profession again often summary these flows based being save drafts then when ready having visible users relevant can others review longer mandatory means drafted who making this particularly useful more significant structural change regulation might need make several related buttons",
+    "url": "/rpr-design-history/interaction-design/s04-03-draft-and-publish/"
+  },  {
+    "data": {
+      "title": "Central admin and regulator users will have different permissions",
+"section": "Service design",      "layout": "post"
+    },
+    "date": "2022-01-09T00:00:00.000Z",
+    "dateString": "9 January 2022",
+    "templateContent": " overview after lot exploration designed new draft publish approach replace original approval process permissions far had discussion how group into regulator roles central iteration iterated current design created two improved journeys : administrators organisation can create users own while only their have additional over those having paths means ask right questions order managing admin vs role selection within editors who edit profession information registrars also link regulators professions onboard manage act across all they registrar begun some implementation work which should finished next sprint ready test with",
+    "url": "/rpr-design-history/service-design/p01-user-permissions/"
+  },  {
+    "data": {
+      "title": "New start page for the public facing side",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-01-11T00:00:00.000Z",
+    "dateString": "11 January 2022",
+    "templateContent": " overview have simpler starting page service new start brief explanation regulated professions direct links different parts user research findings worked well: title felt appropriate what provides onward were clear annual less relevant should prominent",
+    "url": "/rpr-design-history/interaction-design/s04-04-new-start-page/"
+  },  {
+    "data": {
+      "title": "Iteration on profession's page",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-02-06T00:00:00.000Z",
+    "dateString": "6 February 2022",
+    "templateContent": " overview tested page with regulators professionals then further iterated user research findings some about content include: clear how show professions reserved activities that require separate qualification provide see different routes expected summaries onward links long narrow text blocks are hard read design collaborations had structure page: discussed have certification whether describe within one profession service should support both ended",
+    "url": "/rpr-design-history/interaction-design/s05-01-iterations-professions-page/"
+  },  {
+    "data": {
+      "title": "Expanding search",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-02-06T00:00:00.000Z",
+    "dateString": "6 February 2022",
+    "templateContent": " overview two key issues about keyword search public facing side: people used different words absence content case zero results design collaboration our workshop : analyzed constraints current functions looked how dfe teaching vacancies civil service jobs handle searches brainstorming quick wins long term approaches possible improvements important decisions decided implement following wins: elastic professions adding keywords field move sector filters above nations improve wordings when message",
+    "url": "/rpr-design-history/interaction-design/s06-01-expanding-search/"
+  },  {
+    "data": {
+      "title": "Archiving professions, regulators and users",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-02-26T00:00:00.000Z",
+    "dateString": "26 February 2022",
+    "templateContent": " overview there delete archive button moment have prototype complete design archiving mechanism internal page collaboration our collaborations decided : add back keep all archived items professions regulators users search listing filtered out by default use new status filter show will viewable only restoring posts yet allowed",
+    "url": "/rpr-design-history/interaction-design/s07-01-archiving/"
+  },  {
+    "data": {
+      "title": "Warning messages on sidebar before publishing",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-03-28T00:00:00.000Z",
+    "dateString": "28 March 2022",
+    "templateContent": " overview when internal users try create new profession edit existing they find out reasons why system preventing them publish have now introduced warning messages sidebar indicate what are missing journey central user only complete two steps: fill top level information save draft hand regulator check your answers page now: fills incomplete sections saves publishes once all completed details",
+    "url": "/rpr-design-history/interaction-design/s09-01-sidebar-before-publishing/"
+  },  {
+    "data": {
+      "title": "Introduction of regulation types",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-03-28T00:00:00.000Z",
+    "dateString": "28 March 2022",
+    "templateContent": " overview are adding regulation types professions its listing page there two drivers this filter: policy analysts may need filter certain regulating organisations response new legislation ministers have committed keeping public list legally regulated licensed type register three ways: licensing by law only recognised professionals can carry out reserved activities certification restrictions activity certified use title accreditation voluntary professional status with designated titles filters facing side internal",
+    "url": "/rpr-design-history/interaction-design/s09-02-regulation-type/"
+  },  {
+    "data": {
+      "title": "Handling of multiple regulators",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-03-28T00:00:00.000Z",
+    "dateString": "28 March 2022",
+    "templateContent": " overview our current design can handle two regulators per profession however from latest data found that there are: 284 professions have one regulator 16 6 legal financial with 3 related fluorinated gases ozone depleting 7 13 1 chartered environmentalist 25 section page adding journey types had couple discussions leo iterated this ideas result agreed these regulators: primary additional body qualifying oversight enforcement awarding some examples based came design: tiers type bodies are tier 2 will displayed qualifications only editing right public facing also prototyped cover all 8 different scenarios: several many",
+    "url": "/rpr-design-history/interaction-design/s09-03-multiple-regulators/"
+  },  {
+    "data": {
+      "title": "Decision data design",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-03-28T00:00:00.000Z",
+    "dateString": "28 March 2022",
+    "templateContent": " overview had couple design collaborations kick start recognition decision data works although could agree with final made some progress important decisions alpha review requirements from materials including process map statment input statement reporting collaboration provocations reviewed prototype ukcpq sample proposed spreadsheet together first then provided set see which direction closer what want directions include: separate section integrating into editing journey csv upload download approach out web interface ui different options user flow primary after exploring all possible team preferred: + that separates updating main content",
+    "url": "/rpr-design-history/interaction-design/s09-04-decision-data-design/"
+  },  {
+    "data": {
+      "title": "Decision data design iteration",
+"section": "Interaction and visual design",      "layout": "post"
+    },
+    "date": "2022-04-11T00:00:00.000Z",
+    "dateString": "11 April 2022",
+    "templateContent": " overview after design collaborations sprint 9 further refined according internal feedback new decision data section there will that accessible via top navigation admin homepage users from different organisations see content listing page central regulator can add set here they perform bulk download filtering criteria web ui input have iterated into approach steps : existing clicked edit button start updating are back original view with notification banner popped key points about adding editing: displaying display available per profession year edited draft publish overall user flow public facing list years made by regulators displayed same tables just only function entries individual research findings got testing regulators: annual sets could look like decisions some participants initially thought were log professionals clear how specific intention use filters choose want link between results explicit option having gave people path alternative include empty status choices would better fixed their own selection should them most one useful fix those cases route understood might enter separately recognitions routes others did this need additional guidance hint copy editing outcomes well hard understand relate countries definitions good supporting worked process saving partial review publication although archive had concerns providing publishing spoke privacy result encouraging going small adjustments address problems",
+    "url": "/rpr-design-history/interaction-design/s10-01-decision-data-design-iteration/"
+  }]
