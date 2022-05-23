@@ -1,11 +1,6 @@
 ---
   title: Iteration on profession's page
   date: 2022-02-06
-  related:
-    items:
-    - text: Beta sprint 5 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-5
-   
 ---
 
 ## Overview 
@@ -37,10 +32,3 @@ We had a collaborations on the content structure of the page:
 And we ended up with a iterated design.
 
 [![View image in full size](02.png)](02.png)*Iterated profession's page*
-
---- 
-
-### Links
-
-[When the profession is regulated for the entire country](https://rpr-prototype.herokuapp.com/beta-sprint-5/national-admin/profession-1-plastic-surgery-sprint-5-iteration-uk)
-[When the profession is regulated for certain nations](https://rpr-prototype.herokuapp.com/beta-sprint-5/national-admin/profession-1-plastic-surgery-sprint-5-iteration-england)

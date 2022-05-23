@@ -1,10 +1,6 @@
 ---
   title: Central admin and regulator users will have different permissions
   date: 2022-01-09
-  related:
-    items:
-    - text: Beta sprint 5 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-5
    
 ---
 
@@ -53,13 +49,3 @@ Within a regulator, users can be Editors or Administrators.
 We’ve begun some implementation work which should be finished next sprint and ready to test with administrators.
 
 [![View image in full size](04.png)](04.png)*Role selection - Regulator users*
-
-
-
-
---- 
-
-### Links
-
-Co-design information is on this [Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764517268841311&cot=14).
-

@@ -1,11 +1,6 @@
 ---
   title: Decision data design iteration
   date: 2022-04-11
-  related:
-    items:
-    - text: Beta sprint 10 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-10
-   
 ---
 
 ## Overview 
@@ -77,10 +72,3 @@ Here are the findings we got from testing with regulators:
 And they had no privacy concerns about the decision data.
 
 The result is encouraging and we are going to do some small adjustments to address the problems.
-
-
---- 
-
-### Links
-
-[Beta sprint 10 prototype](https://rpr-prototype.herokuapp.com/#beta-sprint-10)

@@ -1,11 +1,6 @@
 ---
   title: Approval process is not preferred
   date: 2022-01-07
-  related:
-    items:
-    - text: Beta sprint 4 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-4
-   
 ---
 
 ## Overview 
@@ -37,10 +32,3 @@ Also, we found that there could be a lot of issues found during the back and for
 
 Our conclusion is that the process is complicated and it may not be helpful. We need a way to streamline the process.
 
---- 
-
-### Links
-
-Co-design information is on this [Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764516111957782&cot=14).
-
-[Beta sprint 4 prototype](https://rpr-prototype.herokuapp.com/#beta-sprint-4)

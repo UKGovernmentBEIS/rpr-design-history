@@ -1,11 +1,6 @@
 ---
   title: Expanding search
   date: 2022-02-06
-  related:
-    items:
-    - text: Beta sprint 6 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-6
-   
 ---
 
 ## Overview 
@@ -41,9 +36,3 @@ We decided to implement the following quick wins:
 
 
 [![View image in full size](04.png)](04.png)*Zero search results message*
-
---- 
-
-### Links
-
-[Design collaboration on search - Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764518178575548&cot=14)

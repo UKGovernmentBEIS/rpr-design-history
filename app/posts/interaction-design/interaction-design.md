@@ -15,8 +15,4 @@ eleventyComputed:
     excerpt: "{{ description }}"
     parent: home
     order: 1
-related:
-  items:
-  - text: RPR beta prototype
-    href: https://rpr-prototype.herokuapp.com/
 ---

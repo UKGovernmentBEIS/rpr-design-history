@@ -39,9 +39,3 @@ We reviewed the Alpha prototype, UKCPQ sample data and some proposed spreadsheet
 After exploring all possible options, the team preferred:
 * a UI in, UI + CSV out approach
 * an approach that separates the updating of main content and decision data
-
---- 
-
-### Links
-
-[Design collaboration board on Miro](https://miro.com/app/board/uXjVOBoFPJ8=/?moveToWidget=3458764521922553268&cot=14)

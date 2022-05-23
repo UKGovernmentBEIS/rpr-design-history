@@ -1,11 +1,7 @@
 ---
   title: New start page for the public facing side
   date: 2022-01-11
-  related:
-    items:
-    - text: Beta sprint 5 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-5
-   
+
 ---
 
 ## Overview 
@@ -29,10 +25,3 @@ The new starting page worked well:
 * The title felt appropriate for the service and what it provides.
 * The onward links were clear.
 * But ‘annual figures’ was less relevant and should be less prominent.
-
-
---- 
-
-### Links
-
-[Alternative start page design](https://rpr-prototype.herokuapp.com/beta-sprint-5/start-page-design/design1)

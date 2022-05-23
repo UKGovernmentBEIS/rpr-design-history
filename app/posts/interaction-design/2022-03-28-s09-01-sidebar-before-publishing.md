@@ -1,11 +1,6 @@
 ---
   title: Warning messages on sidebar before publishing 
   date: 2022-03-28
-  related:
-    items:
-    - text: Beta sprint 9 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-9
-   
 ---
 
 ## Overview 

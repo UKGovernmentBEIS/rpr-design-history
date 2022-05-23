@@ -1,16 +1,6 @@
 ---
   title: Internal professions search design decisions (sprint 3)
   date: 2021-12-21
-  related:
-    items:
-    - text: Beta sprint 3 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-3
-    - text: DevOps 1772 Find information and data
-      href: https://dev.azure.com/AmakaMgbeji/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE/_backlogs/backlog/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE%20Team/Stories/?showParents=true&workitem=1772
-    - text: DevOps 1770 Input & amend content and data
-      href: https://dev.azure.com/AmakaMgbeji/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE/_backlogs/backlog/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE%20Team/Stories/?showParents=true&workitem=1770
-    - text: DevOps 1771 Review and publish content and data
-      href: https://dev.azure.com/AmakaMgbeji/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE/_backlogs/backlog/Regulated%20Professions%20Register%20%28RPR%29%20-%20BETA%20PHASE%20Team/Stories/?showParents=true&workitem=1771
 ---
 
 ## Overview 
@@ -105,12 +95,3 @@ We agreed that the start of the `amending published profession` will be similar 
 We also agreed that amending a published profession will not unpublish the original profession, but will create an extra instance of the profession and it will become a draft.
 
 [![View image in full size](07.png)](07.png)*Amending published profession - new entity created*
-
---- 
-
-
-### Links
-
-Co-design information is on this [Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764515410033016&cot=14).
-
-[Beta sprint 3 prototype](https://rpr-prototype.herokuapp.com/#beta-sprint-3)

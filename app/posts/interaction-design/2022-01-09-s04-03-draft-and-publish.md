@@ -1,11 +1,6 @@
 ---
   title: Draft and Publish to replace the original approval process
   date: 2022-01-09
-  related:
-    items:
-    - text: Beta sprint 4.2 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-4-2
-   
 ---
 
 ## Overview 
@@ -62,12 +57,3 @@ All of this will be particularly useful in a more significant structural change 
 
 
 [![View image in full size](03.png)](03.png)*Draft and publish buttons*
-
-
---- 
-
-### Links
-
-Co-design information is on this [Miro board](https://miro.com/app/board/uXjVOaZc0VI=/?moveToWidget=3458764516421180368&cot=14).
-
-[Beta sprint 4.2 prototype](https://rpr-prototype.herokuapp.com/#beta-sprint-4-2)

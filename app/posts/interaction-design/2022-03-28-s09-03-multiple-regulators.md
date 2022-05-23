@@ -1,11 +1,6 @@
 ---
   title: Handling of multiple regulators
   date: 2022-03-28
-  related:
-    items:
-    - text: Beta sprint 9 prototype
-      href: https://rpr-prototype.herokuapp.com/#beta-sprint-9
-   
 ---
 
 ## Overview 
@@ -57,8 +52,3 @@ And we also prototyped the design to cover all 8 different scenarios:
 * Several Chartered bodies
 * One Chartered body and many Awarding bodies
 
---- 
-
-### Links
-
-[8 different scenarios for multiple regulator design](https://rpr-prototype.herokuapp.com/#beta-sprint-9)
