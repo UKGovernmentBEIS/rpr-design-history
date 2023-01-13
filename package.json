@@ -47,7 +47,7 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-table-of-contents": "^0.6.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.4",
     "rollup": "^2.43.0",
     "sass": "^1.43.4"
   },
